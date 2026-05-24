@@ -10,26 +10,6 @@ Interactive sales dashboard built in Power BI to analyze sales performance, prof
 
 ## Tools Used
 - Power BI
-- Excel
-- 
-# Sales Dashboard - Power BI
-
-## Overview
-This project is an interactive Sales Dashboard created in Power BI to analyze sales performance, profit, discounts, and quantity sold. The dashboard provides valuable business insights through visualizations and KPI cards.
-
-## Features
-- Total Sales Analysis
-- Total Profit Tracking
-- Average Discount Monitoring
-- Total Quantity Sold
-- Sales by Category
-- Sales by Sub-Category
-- Daily and Monthly Sales Trends
-- Customer-wise Sales Analysis
-- Dynamic Filters for Better Insights
-
-## Tools Used
-- Power BI
 - Microsoft Excel
 
 ## Insights
